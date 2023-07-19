@@ -1,0 +1,8 @@
+name: TPAPlugin
+version: 1.0
+author: CheatingFox
+main: com.cheatingfox.moeteleporter.Main
+commands:
+  tpa:
+    description: Request to teleport to another player.
+    usage: /tpa <playername>
